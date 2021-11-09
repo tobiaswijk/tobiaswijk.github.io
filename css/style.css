@@ -6,6 +6,7 @@ background-color:white;
 }
 .container{
   width: 80%;
+  margin: auto;
   overflow: hidden;
 }
 ul{
