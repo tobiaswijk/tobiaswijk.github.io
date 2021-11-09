@@ -38,7 +38,7 @@ nav{
   background: white;
 }
 nav li{
-  float: left;
+  float: right;
   display: inline;
   padding: 0 30px 0 30px;
 }
