@@ -4,6 +4,10 @@ padding:0;
 margin:0;
 background-color:white;
 }
+body h1{
+  display: flex;
+  flex-direction: row-reverse;
+}
 .container{
   width: 80%;
   margin: auto;
