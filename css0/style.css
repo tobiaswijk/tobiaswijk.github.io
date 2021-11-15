@@ -57,8 +57,8 @@ section{
   float: left;
 }
 #textblock{
-  margin-top: 400px;
-  margin-left: 100px;
+  margin-top: 100px;
+  margin-left: 50px;
 }
 #textblock .block{
   float: left;
