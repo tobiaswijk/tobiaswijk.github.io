@@ -57,8 +57,8 @@ section{
   float: left;
 }
 #textblock{
-  margin-top: 100px;
-  margin-left: 50px;
+  margin-top: 80px;
+  margin-left: 20px;
 }
 #textblock .block{
   float: left;
@@ -69,6 +69,7 @@ section{
 
 aside#sidebar{
   float: right;
+
 }
 aside#img{
   width: 10px;
