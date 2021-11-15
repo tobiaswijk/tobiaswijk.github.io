@@ -68,7 +68,7 @@ section{
 }
 
 aside#sidebar{
-  float: none;
+  float: right;
 }
 aside#img{
   width: 10px;
