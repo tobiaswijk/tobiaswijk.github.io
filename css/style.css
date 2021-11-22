@@ -6,13 +6,12 @@ background-color:white;
 }
 .topMenu {
   display: flex;
-  /* kjkjlkjlkj */
-  background-color: red;
 }
 .container{
   width: 80%;
   margin: auto;
   overflow: hidden;
+  display: flex;
 }
 ul{
   margin: 0;
