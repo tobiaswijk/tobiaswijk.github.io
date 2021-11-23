@@ -68,6 +68,9 @@ section{
   padding: 10px;
   display: flex;
 }
+#textblock .container{
+  
+}
 
 aside#sidebar{
   float: right;
