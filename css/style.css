@@ -64,7 +64,7 @@ section{
 #textblock .block{
   float: left;
   text-align: left;
-  width: 80%;
+  width: 100%;
   padding: 10px;
   display: flex;
 }
